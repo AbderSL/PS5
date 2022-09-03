@@ -1,13 +1,15 @@
 {
     "app": {
         "name": "PS5 guide",
-        "color": "#008577"
+        "color": "##5DADE2"
     },
-    
-    
-    "ads":{
-        "bannerId": "ca-app-pub-1636943929816716/8553990287xx",
-        "interstitialId": "ca-app-pub-1636943929816716/8338367864XX"
+        
+  "ads":{
+     "ads_type": "admob",
+      "bannerId": "ca-app-pub-3940256099942544/6300978111X",
+      "interstitialId": "ca-app-pub-3940256099942544/1033173712X",
+     "ironsource_id": "XXX"
+      
     },
     
     
