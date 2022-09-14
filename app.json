@@ -5,9 +5,9 @@
     },
         
   "ads":{
-     "ads_type": "admob",
-      "bannerId": "229751515180500_454360472719602xx",
-      "interstitialId": "229751515180500_454360739386242xx",
+     "ads_type": "ironsrc",
+      "bannerId": "10322125",
+      "interstitialId": "10322123",
      "ironsource_id": "167393b2d"
       
     },
