@@ -5,8 +5,8 @@
     },
         
   "ads":{
-     "ads_type": "Admob",
-      "bannerId": "ca-app-pub-1636943929816716/8553990287",
+     "ads_type": "ironsource",
+      "bannerId": "ca-app-pub-1636943929816716/8553990287x",
       "interstitialId": "ca-app-pub-1636943929816716/8338367864x",
       "ironsource_id": "16e7d5555"
       
