@@ -5,9 +5,9 @@
     },
         
   "ads":{
-     "ads_type": "Ironsource",
-      "bannerId": "XX229751515180500_454360472719602",
-      "interstitialId": "XX229751515180500_454360739386242",
+     "ads_type": "ironsource",
+      "bannerId": "",
+      "interstitialId": "",
       "ironsource_id": "16e7d5555"
       
     },
