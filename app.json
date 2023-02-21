@@ -4,13 +4,12 @@
         "color": "#5DADE2"
     },
         
-  "ads":{
+    "ads":{
      "ads_type": "ironsource",
       "bannerId": "",
       "interstitialId": "",
-      "ironsource_id": "16e7d5555"
-      
-    },
+     "ironsource_id": "16e7d5555"
+  },
     
     
     "content": {
